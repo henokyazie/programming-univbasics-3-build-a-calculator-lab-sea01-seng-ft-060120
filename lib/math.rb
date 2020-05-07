@@ -26,5 +26,6 @@ modulo(34, 5)
 
 def square_root(num)
   puts "returns the square root of a number"
-  math.sqrt(num)
+  Math.sqrt(num)
 end
+square_root(81)
