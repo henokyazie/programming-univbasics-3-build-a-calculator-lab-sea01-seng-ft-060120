@@ -23,6 +23,8 @@ def modulo(num1, num2)
   num1 % num2
 end
 modulo(34, 5)
+
 def square_root(num)
-  puts "returns the square root of the number"
+  puts "returns the square root of a number"
+  math.sqrt(num)
 end
